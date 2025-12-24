@@ -1,6 +1,6 @@
 # DuckDB example with Glue Data Catalog
 
-<img width="85" alt="map-user" src="https://img.shields.io/badge/views-010-green"> <img width="125" alt="map-user" src="https://img.shields.io/badge/unique visits-001-green">
+<img width="85" alt="map-user" src="https://img.shields.io/badge/views-010-green"> <img width="125" alt="map-user" src="https://img.shields.io/badge/unique visits-002-green">
 
 DuckDB is an in-process, analytical SQL database designed for OLAP queries directly on local data files.
 
